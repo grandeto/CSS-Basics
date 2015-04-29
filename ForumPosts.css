@@ -1,16 +1,14 @@
-﻿body {
+body {
     background-color: #A9A9A9;
 }
 
 header h1 {
-
     text-align: center;
     color: #FAFAD2;
 }
 
 nav {
     text-align: center;
-    
 }
 
 li a {
@@ -33,7 +31,7 @@ article h1 {
 
 li:nth-child(4) {
     text-decoration: underline;
-    color:  white;
+    color: white;
     font-weight: bold;
 }
 
