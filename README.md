@@ -1,3 +1,2 @@
-# CSS-Overview
-CSS Basics
-Telerik Academy
+CSS Basics Homework
+Telerik Academy 2015
